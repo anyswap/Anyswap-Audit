@@ -10,3 +10,5 @@ Report list:
 [Anyswap Smart Contract Security Audit by SlowMist](https://github.com/anyswap/Anyswap-Audit/blob/master/SlowMist/Anyswap%20Smart%20Contract%20Security%20Audit.pdf)
 
 [AnyswapV5ERC20 Audit Report by PeckShield](https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-Travala-AnyswapV5ERC20-v1.0.pdf)
+
+[Anyswap Threshold-DSA Audit Final Report by TrailofBits](./TrailOfBits/AnySwap%20Threshold-DSA%20Final%20Report%20Edited.pdf)
