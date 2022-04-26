@@ -3,6 +3,8 @@
 
 Report list:
 
+[MultiChain Contract veMulti Audit Report by BlockSec](./BlockSec/blocksec_audit_multichain_v1.0-signed.pdf)
+
 [MultiChain Contract V6 Audit Report by PeckShield](https://github.com/anyswap/Anyswap-Audit/blob/master/PeckShield/PeckShield-Audit-Report-MultiChainV6-v1.0.pdf)
 
 [Anyswap CrossChain-Bridge Audit Final Report by TrailofBits](https://github.com/anyswap/Anyswap-Audit/blob/master/TrailOfBits/Anyswap-CrossChain-Bridge-TrailofBits-Audit-Final%20Report.pdf)
