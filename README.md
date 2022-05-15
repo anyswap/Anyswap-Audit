@@ -3,16 +3,18 @@
 
 Report list:
 
-[MultiChain Contract veMulti Audit Report by BlockSec](./BlockSec/blocksec_audit_multichain_v1.0-signed.pdf)
+[MultiChain Contract veMulti Audit Report by BlockSec (04/2022)](./BlockSec/blocksec_audit_multichain_v1.0-signed.pdf)
 
-[MultiChain Contract V6 Audit Report by PeckShield](https://github.com/anyswap/Anyswap-Audit/blob/master/PeckShield/PeckShield-Audit-Report-MultiChainV6-v1.0.pdf)
+[Multichain Contract V6 Audit Report by Dedaub (03/2022)](https://github.com/anyswap/Anyswap-Audit/blob/master/DEDAUB/Multichain%20Contract%20V6%20Audit%20Report%20by%20Dedaub.pdf)
 
-[Anyswap CrossChain-Bridge Audit Final Report by TrailofBits](https://github.com/anyswap/Anyswap-Audit/blob/master/TrailOfBits/Anyswap-CrossChain-Bridge-TrailofBits-Audit-Final%20Report.pdf)
+[MultiChain Contract V6 Audit Report by PeckShield (03/2022)](https://github.com/anyswap/Anyswap-Audit/blob/master/PeckShield/PeckShield-Audit-Report-MultiChainV6-v1.0.pdf)
 
-[AnySwap CrossChain-Bridge Security Audit Report by SlowMist](https://github.com/anyswap/Anyswap-Audit/blob/master/SlowMist/AnySwap%20CrossChain-Bridge%20Security%20Audit%20Report.pdf)
+[Anyswap Threshold-DSA Audit Final Report by TrailofBits (02/2022)](./TrailOfBits/AnySwap%20Threshold-DSA%20Final%20Report%20Edited.pdf)
 
-[Anyswap Smart Contract Security Audit by SlowMist](https://github.com/anyswap/Anyswap-Audit/blob/master/SlowMist/Anyswap%20Smart%20Contract%20Security%20Audit.pdf)
+[AnyswapV5ERC20 Audit Report by PeckShield (08/2021)](https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-Travala-AnyswapV5ERC20-v1.0.pdf)
 
-[AnyswapV5ERC20 Audit Report by PeckShield](https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-Travala-AnyswapV5ERC20-v1.0.pdf)
+[Anyswap CrossChain-Bridge Audit Final Report by TrailofBits (07/2021)](https://github.com/anyswap/Anyswap-Audit/blob/master/TrailOfBits/Anyswap-CrossChain-Bridge-TrailofBits-Audit-Final%20Report.pdf)
 
-[Anyswap Threshold-DSA Audit Final Report by TrailofBits](./TrailOfBits/AnySwap%20Threshold-DSA%20Final%20Report%20Edited.pdf)
+[AnySwap CrossChain-Bridge Security Audit Report by SlowMist (09/2020)](https://github.com/anyswap/Anyswap-Audit/blob/master/SlowMist/AnySwap%20CrossChain-Bridge%20Security%20Audit%20Report.pdf)
+
+[Anyswap Smart Contract Security Audit by SlowMist (07/2020)](https://github.com/anyswap/Anyswap-Audit/blob/master/SlowMist/Anyswap%20Smart%20Contract%20Security%20Audit.pdf)
