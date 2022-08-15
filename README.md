@@ -3,6 +3,8 @@
 
 Report list:
 
+[MultiChain Contract RouterV7 Audit Report by BlockSec (08/2022)](./BlockSec/blocksec_audit_multichain_routerv7_v1.0-signed.pdf)
+
 [MultiChain Contract veMulti Audit Report by BlockSec (04/2022)](./BlockSec/blocksec_audit_multichain_v1.0-signed.pdf)
 
 [Multichain Contract V6 Audit Report by Dedaub (03/2022)](https://github.com/anyswap/Anyswap-Audit/blob/master/DEDAUB/Multichain%20Contract%20V6%20Audit%20Report%20by%20Dedaub.pdf)
