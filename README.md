@@ -3,6 +3,8 @@
 
 Report list:
 
+[MultiChain Contract Solana Router Audit Report by Verichain (10/2022)](./SlowMist/SlowMist%20Audit%20Report%20-%20AnySwap%20AnyCall%20App.pdf)
+
 [MultiChain Contract AnyCall Audit Report by SlowMist (09/2022)](./SlowMist/SlowMist%20Audit%20Report%20-%20AnySwap%20AnyCall%20App.pdf)
 
 [MultiChain Contract RouterV7 Audit Report by BlockSec (08/2022)](./BlockSec/blocksec_audit_multichain_routerv7_v1.0-signed.pdf)
